@@ -36,7 +36,7 @@ My expertise lies in creating policies and procedures, creating and managing ris
 * **Core Focus:** Risk Registers, SLA Management, Control Mapping (NIST CSF / ISO 27001).
 * **Key Use Case:** Demonstrates structured risk tracking and remediation accountability mechanisms to improve audit issue closure efficiency.
 
-#### 🤝 [Third-Party Risk & Vendor Due Diligence Framework](https://github.com/stephenomowumi/tprm-governance)
+#### 🤝 [Third-Party Risk & Vendor Due Diligence Framework](https://github.com/bigsteve011/tprm-governance/blob/main/README-tprm-governance.md)
 *A framework designed to streamline third-party risk management workflows, security questionnaire assessments, and vendor tiering methodologies.*
 * **Core Focus:** Client Security Questionnaires, Sub-processor Assessments, and Compliance Evidence Packs
 * **Key Use Case:** Accelerates vendor onboarding while ensuring strong third-party risk governance and visibility into vendor compliance postures
