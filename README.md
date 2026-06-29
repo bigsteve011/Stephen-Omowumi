@@ -3,16 +3,18 @@
 
 I am a certified Information Security Risk and GRC professional with over 6 years of experience leading enterprise security risk assessments, control assurance, audit execution, and Third-Party Risk Management (TPRM) across regulated financial services, cloud, and enterprise environments.
 
-My expertise lies in managing risk registers, conducting inherent and residual risk assessments, driving control remediation, and ensuring alignment with international standards and frameworks (ISO 27001, ISO 42001, NIST CSF, DORA, and GDPR). I specialize in translating complex technical vulnerabilities into quantifiable business impact to support senior leadership decision-making.
+My expertise lies in creating policies and procedures, creating and managing risk registers, conducting inherent and residual risk assessments, driving control testing and remediation, and ensuring alignment with international standards and frameworks (ISO 27001, ISO 42001, NIST CSF, DORA, and GDPR). I specialize in translating complex technical vulnerabilities into quantifiable business impact to support senior leadership decision-making and understanding.
 
 ---
 
 ### 🛡️ Core Competencies & Expertise
 
 * **Enterprise Risk Management:** Inherent & Residual Risk Analysis, Risk Treatment Planning, Risk Register Management, and Remediation Tracking.
+* **Cybersecurity Audits & Assurance:** End-to-end Cyber & IT Audit Execution, Internal/External Controls Testing, Compliance Artifact Curation, and Gap Analysis.
+* **Governance, Risk & Compliance (GRC):** Security Governance Framework Design, Control Framework Optimization, Policy Lifecycle Management, Exception Management, and KPI/KRI Reporting.
 * **Third-Party Risk Management (TPRM):** Vendor Risk Assessments, Security Questionnaire Governance, Sub-processor Reviews, and Contractual Security Reviews (MSA/DPA).
 * **Audit & Assurance:** Cyber & IT Audit Execution, ISO/IEC 27001 & ISO 42001 Audits, Control Effectiveness Reviews, and Compliance Artifact Curation.
-* **Regulatory Compliance & Frameworks:** ISO/IEC 27001:2022, ISO 42001, NIST CSF, NIST 800-53, DORA, GDPR, and PCI DSS.
+* **Regulatory Compliance & Frameworks:** ISO/IEC 27001:2022, ISO 42001:2023, ISO 27701:2025 NIST CSF, NIST 800-53, DORA, GDPR, and PCI DSS.
 
 ---
 
@@ -20,10 +22,10 @@ My expertise lies in managing risk registers, conducting inherent and residual r
 
 | Domain | Technologies & Platforms |
 | :--- | :--- |
-| **GRC Tools & Infrastructure** | ServiceNow IRM, Excel Risk Trackers & Evidence Repositories[cite: |
-| **Security & SIEM Stack** | Microsoft Sentinel, Splunk, Azure Security Center, Microsoft Defender |
-| **Frameworks & Standards** | ISO 27001, ISO 42001, ISO 27005, NIST CSF, DORA, GDPR, PCI DSS |
-| **Technical Core** | Telecommunication Networks, Infrastructure Security, Access Controls (IAM) |
+| **GRC Tools & Infrastructure** | ServiceNow IRM, Excel Risk Trackers & Evidence Repositories, SimpleRisk, Metric Stream 7, RSA Archer |
+| **Security & SIEM Stack** | Microsoft Sentinel, Splunk, Azure Security Center, Microsoft Defender for Endpoint/Cloud |
+| **Frameworks & Standards** | ISO 27001, ISO 42001, ISO 27005, ISO 27701 NIST CSF, DORA, GDPR, PCI DSS |
+| **Technical Core** | Telecommunication $ Computer Networks, Ntework and Cloud Infrastructure Security, Access Controls (IAM) |
 
 ---
 
@@ -55,7 +57,8 @@ My expertise lies in managing risk registers, conducting inherent and residual r
 * **CompTIA Security+ (Sec+)**
 * **Certified Security Awareness Specialist** (Proofpoint)
 * **M.A. in Business Administration** | Akademia Nauk Stosowanych, Poland
-* **M.Sc. & B.Sc. in Telecommunication Management / Science**
+* **M.Sc. in Telecommunication Management**
+* **B.Sc. in Telecommunication Science**
 * *Certified Information Systems Auditor (CISA) — In View*
 * *Certified Information Security Manager (CISA) — In View*
 
